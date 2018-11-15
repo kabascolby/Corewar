@@ -1,0 +1,7 @@
+(If branch not exists: git branch jtsai)
+git checkout jtsai
+
+After edited on my branch:
+git push .....
+got to github.com
+
