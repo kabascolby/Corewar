@@ -2,6 +2,6 @@
 git checkout jtsai
 
 After edited on my branch:
-git push .....
+git push --set-upstream origin jtsai (for first time)
 got to github.com, press "Compare & pull request"
 
