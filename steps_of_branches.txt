@@ -3,5 +3,5 @@ git checkout jtsai
 
 After edited on my branch:
 git push .....
-got to github.com
+got to github.com, press "Compare & pull request"
 
